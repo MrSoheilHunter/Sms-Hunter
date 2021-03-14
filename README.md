@@ -1,4 +1,4 @@
-# SMS-BOMB
+# Sms.Hunter
 
 ` pkg install python `
 
